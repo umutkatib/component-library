@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "Title": "Read Dead Redemption 2",
+      "Released": "26 Oct 2018",
+      "Runtime": "77 Hours",
+      "Genre": "First-Person, Third-Person, Action, Adventure, Open World, Shooter",
+      "Country": "USA",
+      "Poster": "https://m.media-amazon.com/images/I/71xnh5WM+GL._AC_UF1000,1000_QL80_.jpg",
+      "Description": "Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience."
+    },
+    {
+        "id": 3,
+        "Title": "The Witcher 3: Wild Hunt",
+        "Released": "19 May 2015",
+        "Runtime": "102 Hours",
+        "Genre": "Third-Person, Action, Open World, Role-Playing",
+        "Country": "Poland",
+        "Poster": "https://m.media-amazon.com/images/I/61d6njotk7L._AC_UF1000,1000_QL80_.jpg",
+        "Description": "In The Witcher 3 an ancient evil stirs, awakening. An evil that sows terror and abducts the young. An evil whose name is spoken only in whispers: the Wild Hunt. Led by four wraith commanders, this ravenous band of phantoms is the ultimate predator and has been for centuries."
+    },
+    {
+      "id": 2,
+      "Title": "Cyberpunk 2077",
+      "Released": "10 Dec 2020",
+      "Runtime": "63 Hours",
+      "Genre": "First-Person, Action, Role-Playing, Shooter",
+      "Country": "Poland",
+      "Poster": "https://m.media-amazon.com/images/I/61gbXcALj8L._AC_UF1000,1000_QL80_.jpg",
+      "Description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality."
+    }
+  ]
+  

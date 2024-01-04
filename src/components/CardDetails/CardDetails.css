@@ -1,0 +1,15 @@
+.containerDetail {
+    display: flex;
+    margin-top: 140px;
+}
+
+.detailImgAndWriting {
+    display: flex;
+    width: 100%;
+}
+
+.detailWriting {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}

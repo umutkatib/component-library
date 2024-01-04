@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "Title": "They Shall Not Grow Old",
+    "Released": "01 Feb 2019",
+    "Runtime": "99 min",
+    "Genre": "Documentary, History, War",
+    "Director": "Peter Jackson",
+    "Writer": "Peter Jackson",
+    "Actors": "Mark Kermode, Peter Jackson",
+    "imdbRating": 8.3,
+    "Country": "UK, New Zealand",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZThmYzUtNDJhOC00ZWY4LThiNmMtZDgxNjE3Yzk4NDU1XkEyXkFqcGdeQXVyNTk5Nzg1NjQ@._V1_SX300.jpg",
+    "Description": "A documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war."
+  },
+  {
+    "id": 2,
+    "Title": "Midnight Family",
+    "Released": "06 Dec 2019",
+    "Runtime": "81 min",
+    "Genre": "Documentary, Action, Crime, Drama",
+    "Director": "Luke Lorentzen",
+    "Writer": "Luke Lorentzen",
+    "Actors": "Fer Ochoa, Josue Ochoa, Juan Ochoa",
+    "imdbRating": 7.7,
+    "Country": "Mexico",
+    "Awards": "24 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGYyZTk5MjYtNGY2ZS00NzRhLTgwMWMtZjhmMmQ4OGFkNTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Description": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a private ambulance, competing with other for-profit EMTs for patients in need of urgent help."
+  },
+  {
+    "id": 3,
+    "Title": "Pain & Gain",
+    "Released": "26 Apr 2013",
+    "Runtime": "129 min",
+    "Genre": "Action, Comedy, Crime, Drama",
+    "Director": "Michael Bay",
+    "Writer": "Christopher Markus (screenplay), Stephen McFeely (screenplay), Pete Collins (based on the magazine articles by)",
+    "Actors": "Mark Wahlberg, Dwayne Johnson, Anthony Mackie, Tony Shalhoub",
+    "imdbRating": 6.4,
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jpg",
+    "Description": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong."
+  }
+]
