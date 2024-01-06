@@ -14,7 +14,7 @@ export const Cards = ({title, imageUrl, description, color}) => (
         <h2>{title}</h2>
         <img className="allImages" src={imageUrl}/>
         <hr />
-        <p>{description}</p>
+        <p style={{height: "130px"}}>{description}</p>
       </Card>
   </>
 );

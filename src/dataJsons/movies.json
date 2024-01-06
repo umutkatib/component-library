@@ -12,7 +12,8 @@
     "Country": "UK, New Zealand",
     "Awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 10 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZThmYzUtNDJhOC00ZWY4LThiNmMtZDgxNjE3Yzk4NDU1XkEyXkFqcGdeQXVyNTk5Nzg1NjQ@._V1_SX300.jpg",
-    "Description": "A documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war."
+    "Description": "A documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war.",
+    "DescriptionDetail": "They Shall Not Grow Old is a 2018 documentary film directed and produced by Peter Jackson. The film was created using original footage of the First World War from the Imperial War Museum's archives, most previously unseen, all over 100 years old by the time of release."
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
     "Country": "Mexico",
     "Awards": "24 wins & 20 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMGYyZTk5MjYtNGY2ZS00NzRhLTgwMWMtZjhmMmQ4OGFkNTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "Description": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a private ambulance, competing with other for-profit EMTs for patients in need of urgent help."
+    "Description": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a private ambulance, competing with other for-profit EMTs for patients in need of urgent help.",
+    "DescriptionDetail": "Midnight Family is a 2019 Mexican-American documentary film written and directed by Luke Lorentzen. It focuses on Ochoa family who run a private ambulance business. It is produced by Kellen Quinn under the banner of Hedgehog Films, and No Ficción. It stars Fer Ochoa, Josue Ochoa, and Juan Ochoa."
   },
   {
     "id": 3,
@@ -42,6 +44,7 @@
     "Country": "USA",
     "Awards": "4 nominations.",
     "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jpg",
-    "Description": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong."
+    "Description": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong.",
+    "DescriptionDetail": "Pain & Gain is a 2013 American action comedy film directed by Michael Bay and starring Mark Wahlberg, Dwayne Johnson, and Anthony Mackie. It is based on the activities of the Sun Gym gang, a group of ex-convicts and bodybuilders convicted of kidnapping, extortion, torture, and murder in Miami in the mid-1990s."
   }
 ]

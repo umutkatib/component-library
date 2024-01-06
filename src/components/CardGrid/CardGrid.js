@@ -30,7 +30,7 @@ function CardGrid() {
         <h1 className="mainTitles">Games</h1>
         {games.map((data) => (
           <div className="boxGrid">
-            <Link to={`/games-details/${data.id}`}>
+            <Link to={`/game-details/${data.id}`}>
               <Cards
                 key={data.id}
                 title={data.Title}
@@ -47,7 +47,7 @@ function CardGrid() {
         <h1 className="mainTitles">Musics</h1>
         {musics.map((data) => (
           <div className="boxGrid">
-            <Link to={`/musics-details/${data.id}`}>
+            <Link to={`/music-details/${data.id}`}>
               <Cards
                 key={data.id}
                 title={data.Title}

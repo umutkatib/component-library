@@ -7,7 +7,8 @@
       "Genre": "First-Person, Third-Person, Action, Adventure, Open World, Shooter",
       "Country": "USA",
       "Poster": "https://m.media-amazon.com/images/I/71xnh5WM+GL._AC_UF1000,1000_QL80_.jpg",
-      "Description": "Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience."
+      "Description": "Red Dead Redemption 2 is an epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world will also provide the foundation for a brand new online multiplayer experience.",
+      "DescriptionDetail": "America, 1899. The end of the Wild West era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him."
     },
     {
         "id": 3,
@@ -17,7 +18,8 @@
         "Genre": "Third-Person, Action, Open World, Role-Playing",
         "Country": "Poland",
         "Poster": "https://m.media-amazon.com/images/I/61d6njotk7L._AC_UF1000,1000_QL80_.jpg",
-        "Description": "In The Witcher 3 an ancient evil stirs, awakening. An evil that sows terror and abducts the young. An evil whose name is spoken only in whispers: the Wild Hunt. Led by four wraith commanders, this ravenous band of phantoms is the ultimate predator and has been for centuries."
+        "Description": "In The Witcher 3 an ancient evil stirs, awakening. An evil that sows terror and abducts the young. An evil whose name is spoken only in whispers: the Wild Hunt. Led by four wraith commanders, this ravenous band of phantoms is the ultimate predator and has been for centuries.",
+        "DescriptionDetail": "You are Geralt, from the city of Rivia. All around you the towns and settlements of the Northern Kingdoms are being razed to the ground, as an otherworldly invading army known only as the Wild Hunt leaves a trail of blood-soaked destruction in its wake. As you prepare for a thunderous confrontation with the Wild Hunt, you’ll uncover a complex, gripping story and meet unforgettable characters. While exploring the Northern Kingdoms, you’ll discover that mysteries lurk inside every village, tree, and shadow."
     },
     {
       "id": 2,
@@ -27,7 +29,8 @@
       "Genre": "First-Person, Action, Role-Playing, Shooter",
       "Country": "Poland",
       "Poster": "https://m.media-amazon.com/images/I/61gbXcALj8L._AC_UF1000,1000_QL80_.jpg",
-      "Description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality."
+      "Description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+      "DescriptionDetail": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?"
     }
   ]
   

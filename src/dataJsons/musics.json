@@ -6,7 +6,8 @@
     "Runtime": "4 min 41 sec",
     "Writer": "Michael Jackson",
     "Language": "English",
-    "Poster": "https://i.etsystatic.com/16693305/r/il/931daa/3620741673/il_fullxfull.3620741673_9u5k.jpg"
+    "Poster": "https://i.etsystatic.com/16693305/r/il/931daa/3620741673/il_fullxfull.3620741673_9u5k.jpg",
+    "Description": "The song is in fact about the pain of prejudice and hate and is a way to draw attention to social and political problems."
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "Runtime": "3 min 57 sec",
     "Writer": "Wiz Khalifa ft. Charlie Puth",
     "Language": "English",
-    "Poster": "https://i.pinimg.com/736x/81/53/99/815399c94a112405c7623bec81bfefe9.jpg"
+    "Poster": "https://i.pinimg.com/736x/81/53/99/815399c94a112405c7623bec81bfefe9.jpg",
+    "Description": "The song, which was released in 2015, was written as a tribute to the late actor Paul Walker, who died in a car accident in November 2013. The song was part of the soundtrack for the movie “Furious 7,” which was the seventh installment in the “Fast and Furious” franchise."
   },
   {
     "id": 3,
@@ -24,6 +26,7 @@
     "Runtime": "4 min 32 sec",
     "Writer": "Avicii",
     "Language": "English",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTkwMTNlNTgtNzc3NS00NTUxLWI2NWYtNTkxMTMxMDljZGQ5XkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_.jpg"
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTkwMTNlNTgtNzc3NS00NTUxLWI2NWYtNTkxMTMxMDljZGQ5XkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_.jpg",
+    "Description": "“Wake Me Up” by Avicii (featuring Aloe Blacc) is one of the most popular dance songs of the 21st century. Upon its release in 2013, the song topped the charts in many countries and became a global sensation. The song is known for its uplifting melody, catchy lyrics, and energetic beats."
   }
 ]

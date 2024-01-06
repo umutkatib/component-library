@@ -1,15 +1,30 @@
 .containerDetail {
     display: flex;
-    margin-top: 140px;
+    margin-top: 180px;
 }
 
 .detailImgAndWriting {
     display: flex;
-    width: 100%;
+    width: 80%;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .detailWriting {
     flex-direction: column;
     justify-content: center;
     align-items: center
+}
+
+span {
+    margin: 10px;
+}
+
+.containerBreadCrumbBar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.breadCrumbBar {
+    margin-right: 5px
 }

@@ -12,6 +12,7 @@ import musics from "./dataJsons/musics.json";
 import CardGrid from "./components/CardGrid/CardGrid";
 import ScrollToTopButton from "./components/ScroolToUp/ScroolToUp";
 
+
 function App() {
   const [selectedMovieBox, setSelectedMovieBox] = useState(movies);
   const [selectedGamesBox, setSelectedGamesBox] = useState(games);
@@ -30,19 +31,20 @@ function App() {
           <Route path="/home" element={<CardGrid />} />
           <Route
             path={`/movie-details/:id`}
-            element={<CardDetailsPage data={selectedMovieBox} />}
+            element={<CardDetailsPage data={selectedMovieBox} type={"movie"} />}
           />
           <Route
-            path={`/games-details/:id`}
-            element={<CardDetailsPage data={selectedGamesBox} />}
+            path={`/game-details/:id`}
+            element={<CardDetailsPage data={selectedGamesBox} type={"game"} />}
           />
           <Route
-            path={`/musics-details/:id`}
-            element={<CardDetailsPage data={selectedMusicsBox} />}
+            path={`/music-details/:id`}
+            element={<CardDetailsPage data={selectedMusicsBox} type={"music"} />}
           />
           <Route path="*" element={<NoPage />} />
         </Routes>
       </div>
+      
       <ScrollToTopButton />
       
     </Router>
