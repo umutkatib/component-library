@@ -17,14 +17,13 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "start2": "set PUBLIC_URL=home&&react-scripts start",
+    "start": "set PUBLIC_URL=home&&react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
-    },
+  },
   "jest": {
     "testMatch": ["src/storybook.test.js"]
   },
@@ -60,6 +59,7 @@
     "eslint-plugin-storybook": "^0.6.15",
     "prop-types": "^15.8.1",
     "storybook": "^7.6.7",
-    "webpack": "^5.89.0"
+    "webpack": "^5.89.0",
+    "@babel/plugin-proposal-private-property-in-object": "^1.0.0"
   }
 }
