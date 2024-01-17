@@ -23,7 +23,7 @@ const CardDetailsPage = ({ data, type }) => {
             <BreadcrumbLink href="/home">Home</BreadcrumbLink>
           </BreadcrumbItem>
           <BreadcrumbItem className="breadCrumbBar">
-            <BreadcrumbLink href={`/${type}-details/${id}`}>
+            <BreadcrumbLink href={`https://component-library11.netlify.app/${type}-details/${id}`}>
               This Page
             </BreadcrumbLink>
           </BreadcrumbItem>
