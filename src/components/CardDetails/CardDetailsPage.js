@@ -36,7 +36,6 @@ const CardDetailsPage = ({ data, type }) => {
           title={selectedData.Title}
           description={selectedData.Description}
           imageUrl={selectedData.Poster}
-          color={"color2"}
         >
           <h1>{selectedData.Title}</h1>
           <img src={selectedData.Poster} className="detailImage" />

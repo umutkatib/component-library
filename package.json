@@ -24,6 +24,9 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
+  "jest": {
+    "testMatch": ["src/storybook.test.js"]
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
